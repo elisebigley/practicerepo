@@ -4,8 +4,8 @@
 
 ## Online Coordinates
 
-+ [github repo](http://link.to.your.repo)
-+ [twitter handle](http://link.to.your.twitter.profile)
++ [github repo](https://github.com/elisebigley)
++ [twitter handle](https://twitter.com/eliseab2)
 + [other](http://self.evident.right)
 
 ----
